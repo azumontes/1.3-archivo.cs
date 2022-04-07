@@ -1,4 +1,8 @@
-﻿using System;
+//AZUCENA DE LOS ANGELES MONTES//
+//TANIA GUADALUPE LOPEZ GOMEZ//
+//JUAN ARNULFO ESPINOSA VAZQUEZ//
+
+using System;
 using System.IO;
 
 namespace creacion_archivo_Azucena
